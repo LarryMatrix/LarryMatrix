@@ -21,7 +21,8 @@ class DataEngineer:
             "Deep Learning",
             "Computer Vision",
             "Computer Programmer",
-            "Data Analyst"
+            "Data Analyst",
+            "ANdroid and iOS App Developer"
         ]
         self.knowledge_base.insert(0, "Fullstack Engineering")
 
