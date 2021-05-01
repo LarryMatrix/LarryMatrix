@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Health Practitioners Registry System](http://41.59.227.92)
 
-- 🌱 I’m currently learning **AI/ML, Delivering Microservice App**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LarryMatrix](https://github.com/LarryMatrix)
 
