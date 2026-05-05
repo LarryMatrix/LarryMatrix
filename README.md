@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/lawmassanja" target="blank"><img src="https://img.shields.io/twitter/follow/lawmassanja?logo=twitter&style=for-the-badge" alt="lawmassanja" /></a> </p>
 
-- 🔭 I’m currently working on [Insurance Regulatory Integrated System - IRIS](http://41.59.86.178:60015/)
+- 🔭 I’m currently working on [Insurance Regulatory Integrated System - IRIS](https://iris.tira.go.tz/)
 
 - 🌱 I’m currently learning **AI/ML**
 
