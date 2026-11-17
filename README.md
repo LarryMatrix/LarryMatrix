@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LarryMatrix](https://github.com/LarryMatrix)
 
-- 💬 Ask me about **Django, Flask, FastAPI, VueJs, Angular,, SpringBoot, Python, Android App Development**
+- 💬 Ask me about **Django, Flask, FastAPI, VueJs, Angular, Express, NestJS, SpringBoot, Python, Java, Android App Development**
 
 - 📫 How to reach me **massanjal4@gmail.com**
 
